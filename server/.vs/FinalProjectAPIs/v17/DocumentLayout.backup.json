@@ -1,0 +1,850 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\memberdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\memberdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\taskentitydto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\taskentitydto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\statusdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\statusdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\teamdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\teamdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\userdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\userdto_put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\controllers\\invitationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:controllers\\invitationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\controllers\\statusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:controllers\\statusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\memberdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\memberdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\teamdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\teamdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\teaminvitedto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\teaminvitedto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\passwordresetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\passwordresetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\passwordresetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\passwordresetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\userpublicdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\userpublicdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\userdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\userdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\statusdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\statusdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\statusdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\statusdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\helper\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:helper\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\taskentitydto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\taskentitydto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\teamdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\teamdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\invitationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\invitationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\memberdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\memberdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\helper\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:helper\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\passwordchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\passwordchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\userdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\userdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\taskentitydto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\taskentitydto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\invitationdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\invitationdto_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\dto\\invitationdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\dto\\invitationdto_get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\invitationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\invitationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\helper\\apierrortypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:helper\\apierrortypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\finalprojectapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:finalprojectapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|c:\\users\\karim\\source\\repos\\finalprojectapis\\finalprojectapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{694D8D31-1CF1-4730-BF2E-A9AEE324F9E1}|FinalProjectAPIs.csproj|solutionrelative:finalprojectapis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeamDTO_PUT.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamDTO_PUT.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TeamDTO_PUT.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamDTO_PUT.cs",
+              "RelativeToolTip": "Models\\Dto\\TeamDTO_PUT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:01:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO_PUT.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserDTO_PUT.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\UserDTO_PUT.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserDTO_PUT.cs",
+              "RelativeToolTip": "Models\\Dto\\UserDTO_PUT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:56:50.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusDTO_PUT.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\StatusDTO_PUT.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\StatusDTO_PUT.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\StatusDTO_PUT.cs",
+              "RelativeToolTip": "Models\\Dto\\StatusDTO_PUT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:18:36.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TeamDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\TeamDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:21:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T00:12:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\EmailHelper.cs",
+              "RelativeToolTip": "Helper\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:38:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\MemberDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\MemberDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\MemberDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\MemberDTO_GET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:55:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Controllers\\TeamsController.cs",
+              "ViewState": "AgIAANkAAAAAamZmZmYgwPQAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:09:54.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAKkAAACAmZmZmZkVwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:06:36.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:01:37.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskEntityDTO_PUT.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TaskEntityDTO_PUT.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TaskEntityDTO_PUT.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TaskEntityDTO_PUT.cs",
+              "RelativeToolTip": "Models\\Dto\\TaskEntityDTO_PUT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:05:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberDTO_PUT.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\MemberDTO_PUT.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\MemberDTO_PUT.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\MemberDTO_PUT.cs",
+              "RelativeToolTip": "Models\\Dto\\MemberDTO_PUT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:26:03.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:57:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAABAAAACAmZmZmZkZwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:11:18.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "Models\\TaskEntity.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\TaskEntity.cs",
+              "RelativeToolTip": "Models\\TaskEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:01:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PasswordResetRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\PasswordResetRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\PasswordResetRequestDTO.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\PasswordResetRequestDTO.cs",
+              "RelativeToolTip": "Models\\Dto\\PasswordResetRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:31:20.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatusesController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\StatusesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatusesController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\StatusesController.cs",
+              "RelativeToolTip": "Controllers\\StatusesController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwLUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:35:30.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAABAMzMzMzMrwDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:21:36.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeamInviteDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamInviteDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TeamInviteDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamInviteDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\TeamInviteDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:02:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:58:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "Helper\\JwtHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:47:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvitationsController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\InvitationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvitationsController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\InvitationsController.cs",
+              "RelativeToolTip": "Controllers\\InvitationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:50:32.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAgAAAAAZmZmZmYawDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:28:51.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T13:10:40.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\UserDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\UserDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:13:10.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAArwAMBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:40:23.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PasswordResetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\PasswordResetDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\PasswordResetDTO.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\PasswordResetDTO.cs",
+              "RelativeToolTip": "Models\\Dto\\PasswordResetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:44:13.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:27:50.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserPublicDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserPublicDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\UserPublicDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserPublicDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\UserPublicDTO_GET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:55:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StatusDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\StatusDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\StatusDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\StatusDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\StatusDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:48:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\LoginDTO.cs",
+              "RelativeToolTip": "Models\\Dto\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:59:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InvitationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\InvitationResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\InvitationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\InvitationResponseDTO.cs",
+              "RelativeToolTip": "Models\\Dto\\InvitationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:30:34.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Helper\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\AuthResponse.cs",
+              "RelativeToolTip": "Helper\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:45:10.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StatusDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\StatusDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\StatusDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\StatusDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\StatusDTO_GET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:54:22.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TaskEntityDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TaskEntityDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TaskEntityDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TaskEntityDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\TaskEntityDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:38:02.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TeamDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TeamDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TeamDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\TeamDTO_GET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:56:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MemberDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\MemberDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\MemberDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\MemberDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\MemberDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:52:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Helper\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\ErrorResponse.cs",
+              "RelativeToolTip": "Helper\\ErrorResponse.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:17:36.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PasswordChangeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\PasswordChangeDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\PasswordChangeDTO.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\PasswordChangeDTO.cs",
+              "RelativeToolTip": "Models\\Dto\\PasswordChangeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:57:16.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\UserDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\UserDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\UserDTO_GET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:52:32.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TaskEntityDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TaskEntityDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TaskEntityDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\TaskEntityDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\TaskEntityDTO_GET.cs",
+              "ViewState": "AgIAAA0AAABAMzMzMzMbwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:38:41.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InvitationDTO_POST.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\InvitationDTO_POST.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\InvitationDTO_POST.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\InvitationDTO_POST.cs",
+              "RelativeToolTip": "Models\\Dto\\InvitationDTO_POST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:44:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InvitationDTO_GET.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\InvitationDTO_GET.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\InvitationDTO_GET.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Dto\\InvitationDTO_GET.cs",
+              "RelativeToolTip": "Models\\Dto\\InvitationDTO_GET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:43:57.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:04:34.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:24:44.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:20:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InvitationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\InvitationStatus.cs",
+              "RelativeDocumentMoniker": "Models\\InvitationStatus.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\InvitationStatus.cs",
+              "RelativeToolTip": "Models\\InvitationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:42:09.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Invitation.cs",
+              "RelativeDocumentMoniker": "Models\\Invitation.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Models\\Invitation.cs",
+              "RelativeToolTip": "Models\\Invitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:41:25.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApiErrorTypes.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\ApiErrorTypes.cs",
+              "RelativeDocumentMoniker": "Helper\\ApiErrorTypes.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\Helper\\ApiErrorTypes.cs",
+              "RelativeToolTip": "Helper\\ApiErrorTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:19:09.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FinalProjectAPIs.csproj",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\FinalProjectAPIs.csproj",
+              "RelativeDocumentMoniker": "FinalProjectAPIs.csproj",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\FinalProjectAPIs.csproj",
+              "RelativeToolTip": "FinalProjectAPIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T00:01:08.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FinalProjectAPIs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\FinalProjectAPIs.csproj",
+              "RelativeDocumentMoniker": "FinalProjectAPIs.csproj",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\FinalProjectAPIs\\FinalProjectAPIs.csproj",
+              "RelativeToolTip": "FinalProjectAPIs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T10:05:47.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
